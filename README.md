@@ -28,10 +28,18 @@
 ### 13주차
   
 * 웹서버 부분
-  >플라스크 로그인 및 회원 가입 기능
+  >플라스크 회원가입 및 로그인, 로그아웃 기능
   
 
 https://user-images.githubusercontent.com/105426407/174955130-4b6a3746-82a1-46fb-a1db-bc2438d1f1b5.mp4
+
+
+
+
+https://user-images.githubusercontent.com/105426407/174962552-724bfe53-594c-47e6-a259-14d55df18ba4.mp4
+
+
+
 
   >데이터베이스 관리 시스템 DBMS((DataBase Management System)을 사용
   
@@ -44,6 +52,17 @@ https://user-images.githubusercontent.com/105426407/174955130-4b6a3746-82a1-46fb
  
 * 웹서버 부분
   > 플라스크 웹서버를 이용하여 웹스트리밍 및 메인 웹서버 연동
+>연동전 메인 웹서버
+![스크린샷(3)](https://user-images.githubusercontent.com/105426407/174965025-943a2f69-39a6-45a9-b9f0-02331055c8f8.png)
+
+>연동전 웹스트리밍 서버
+![2022-06-22-160444_898x666_scrot](https://user-images.githubusercontent.com/105426407/174965947-a393997d-8c84-4798-a249-d136902306cc.png)
+
+>연동
+
+https://user-images.githubusercontent.com/105426407/174966941-1d5e96fb-d2fc-4789-96f1-a05e6b50968f.mp4
+
+
 
 * Raspberry Pi Zero W > Arduino Nano RP2040 Connect 로 변경
 
